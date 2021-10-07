@@ -97,7 +97,7 @@
 		</div><br><br>
 
 		<footer>
-			Copyright ©  楊子青. All Rights Reserved.
+			Copyright © <?php echo date("Y-m-d") ?> 楊子青. All Rights Reserved.
 		</footer>
 
 	</main>
